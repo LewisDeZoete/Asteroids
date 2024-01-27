@@ -28,4 +28,4 @@ I'm assuming you've got Obsidian downloaded and installed on your computer. If y
 
 Select the option to `Open folder as vault`, then navigate into the project folder and simply select the `Diary` folder. 
 
-You should now see the few notes I've already gotten started on in the folder panel on the left hand side in Obsidian. If not, send me a message. I'd recommend toying around with this interface, it's pretty easy to navigate but markdown takes a tiny bit of getting used to. If you want to make a document look prettier, someone on the internet has almost certainly tried to do the same thing; so Google it!
+You should now see the few notes I've already gotten started on in the folder panel on the left hand side in Obsidian. If not, send me a message. I'd recommend toying around with this interface, it's pretty easy to navigate but markdown takes a tiny bit of getting used to. If you want to make a document look prettier, someone on the internet has almost certainly tried to do the same thing; so Google it!  
