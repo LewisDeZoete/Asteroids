@@ -61,7 +61,7 @@ Periodically, we'll need to merge our branches to the main branch so we can keep
 
 
 ### Learn more?
-Git is very complex, but so many people use it that if you run into a problem, someone else on the internet has had the same issue. If you want a deeper rundown of Git, see the `git-intro.ipynb` for more.
+Git is very complex, but so many people use it that if you run into a problem, someone else on the internet has had the same issue. If you want a deeper rundown of Git, see the `git-intro.ipynb` for more; you can just open that notebook on the GitHub website.
 
 
 ## Assets
