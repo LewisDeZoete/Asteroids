@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5ed438dea8dddd",
+        "id": "4cdc9f1253f13413",
         "type": "tabs",
         "children": [
           {
-            "id": "fe3a8543e28a3b97",
+            "id": "11cb5b6d3ddaf385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story and objectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4bce26eda8ced9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Tutorial.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git Tutorial.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f4bce26eda8ced9",
+  "active": "11cb5b6d3ddaf385",
   "lastOpenFiles": [
     "Story and objectives.md",
     "Git Tutorial.md",
