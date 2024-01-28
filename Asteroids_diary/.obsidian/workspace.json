@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Story and objectives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f4bce26eda8ced9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Git Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics.md",
+                "file": "Git Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics.md"
+                "file": "Git Tutorial.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe3a8543e28a3b97",
+  "active": "6f4bce26eda8ced9",
   "lastOpenFiles": [
     "Story and objectives.md",
+    "Git Tutorial.md",
     "Mechanics.md",
-    "Untitled.canvas",
-    "Just_Asteroids.pdf"
+    "Just_Asteroids.pdf",
+    "Untitled.canvas"
   ]
 }
