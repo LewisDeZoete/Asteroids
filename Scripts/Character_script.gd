@@ -17,7 +17,7 @@ func shoot():
 	owner.add_child(p)
 	p.transform = $Muzzle.global_transform
 	p.scale = Vector2(0.2, 0.2)
-
+	
 
 func get_input():
 	'''
@@ -45,5 +45,5 @@ func _physics_process(delta):
 	rotation += rotation_direction * rotation_speed * delta
 	# clamp speed to range (0,MAX)
 	speed = clamp(speed, 0, MAX)
-	velocity += transform.x * speed / 3
 	move_and_slide()
+	velocity += transform.x * speed / 3

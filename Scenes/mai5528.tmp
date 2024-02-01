@@ -503,8 +503,6 @@ DROP = 5
 position = Vector2(118, 237)
 scale = Vector2(5, 5)
 script = ExtResource("4_e8v2x")
-max_speed = 20
-acc = 50
 
 [node name="Sprite2D" type="Sprite2D" parent="Enemy"]
 texture_filter = 1

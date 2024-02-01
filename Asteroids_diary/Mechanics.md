@@ -1,8 +1,8 @@
 #mechanics
 **Player input**
-- [ ] Movement
-- [ ] Shooting
-	- [ ] Bullet collision
+- [x] Movement
+- [x] Shooting
+	- [x] Bullet collision
 
 **Enemies**
 - [ ] Spawning 

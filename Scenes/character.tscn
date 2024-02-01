@@ -20,3 +20,6 @@ polygon = PackedVector2Array(0, -7.66667, 8.33333, 7, 0, 2.66667, -8.33333, 7)
 
 [node name="Muzzle" type="Marker2D" parent="."]
 position = Vector2(7.682, 0)
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(0.8, 0.8)
